@@ -1,0 +1,24 @@
+{
+  "originHash" : "975e035eff3acebcbf269c3ac1e1e452c8f5d900504380243c1508d42e1da6ed",
+  "pins" : [
+    {
+      "identity" : "polykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/heestand-xyz/PolyKit.git",
+      "state" : {
+        "revision" : "4d84c4469daf5e9ee4d1768dd3018d6b985ee868",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "stepperview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/badrinathvm/StepperView.git",
+      "state" : {
+        "revision" : "c66fb84c640fbc312f4eead0b7ae2a77f93e0839",
+        "version" : "1.6.7"
+      }
+    }
+  ],
+  "version" : 3
+}
